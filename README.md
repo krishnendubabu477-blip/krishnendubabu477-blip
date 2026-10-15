@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Krishnendu+Babu;Aspiring+Cybersecurity+Professional;Exploring+Web+Application+Security;Learning+Penetration+Testing+%26+VAPT;Analyze.+Validate.+Document.+Improve." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00FF9C&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Krishnendu+Babu;Cybersecurity+Professional;Exploring+Web+Application+Security;Learning+Penetration+Testing+%26+VAPT;Analyze.+Validate.+Document.+Improve." alt="Animated introduction"/>
 
 <br/>
 
